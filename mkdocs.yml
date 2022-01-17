@@ -1,0 +1,6 @@
+site_name: 虚拟环境保护计划
+theme:
+    name: readthedocs
+    analytics:
+        gtag: G-R9G5J8SXMD
+    locale: zh_CN
